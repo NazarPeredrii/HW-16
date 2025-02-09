@@ -1,0 +1,10 @@
+.bg-box{
+    background-color: green;
+    width: 100%;
+    height: 800px;
+    background-image: url(./haus.webp), url(./lamp.png), url(./green.png), url(./ponchik.png), url(./hedgehog.webp);
+    background-size: 500px 300px, 50px 100px, 120px 170px, 50px 100px, 100px 120px;
+    background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+    background-position: center, top, bottom, right, left;
+
+}
